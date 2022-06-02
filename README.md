@@ -2,4 +2,5 @@ Verilog Solutions for the problems in the book "DIGITAL DESIGN  with an Introduc
 
 ---
 All code is compiled on [EDA Playground](https://www.edaplayground.com)
+
 Work in progress!
